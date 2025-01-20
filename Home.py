@@ -1,7 +1,7 @@
 import streamlit as st
 
 # App Title
-st.title("Sepsis Prediction App")
+st.title("SepsisGuard: Real-time Sepsis Prediction App")
 
 # App Description
 st.markdown("""
