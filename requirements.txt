@@ -1,0 +1,9 @@
+pandas
+pandas-profiling
+numpy
+scikit-learn
+seaborn
+matplotlib
+streamlit
+torch
+joblib
